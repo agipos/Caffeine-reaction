@@ -6,3 +6,4 @@ Data was transferred from a .mat file into Python and recast into a workable typ
 
 All data in the valid trials was then plotted using matplotlib. 
 
+![caffeinegraph](https://cloud.githubusercontent.com/assets/16911301/22131580/3c24dc4c-de69-11e6-93b0-d91300dfc315.png)
